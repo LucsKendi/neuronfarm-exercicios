@@ -1,2 +1,3 @@
 let numero = 5.6;
-console.log(Math.floor(numero))
+let floor = Math.floor(numero);
+console.log(floor);
