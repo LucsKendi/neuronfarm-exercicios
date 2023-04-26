@@ -1,4 +1,4 @@
-let num1 = 10;
-let num2 = 20;
-let maior = num1 > num2;
+let num = 10;
+let num1 = 20;
+let maior = num0 > num1;
 console.log(maior)
