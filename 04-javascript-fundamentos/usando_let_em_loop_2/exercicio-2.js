@@ -1,4 +1,4 @@
-let numeros = [1, 23, 52, 85, 93];
-for (i = 0; i < numeros.length; i++){
-    console.log(numeros[i]);
+let nomes = ['Lucas', 'Amanda', 'Luke', 'Louis', 'Cingapura'];
+for (let i = 0; i < nomes.length; i++){
+    console.log(nomes[i]);
 }
